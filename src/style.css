@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Open Sans';
+    src:
+      url('./assests/fonts/OpenSans-Regular.ttf') format('truetype'),
+      url('./assests/fonts/OpenSans-SemiBold.ttf') format('truetype')
+  }
+  
+  .fontReg{
+    font-family: 'Open Sans';
+    font-weight: 400;
+  }
+
+  .fontSemBold{
+    font-family: 'Open Sans';
+    font-weight: 600;
+  }
+
+  p{
+    line-height: 3vh;
+  }
